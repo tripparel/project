@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 지도 표시용 컨테이너 -->
+    <FrameLayout
+        android:id="@+id/tmapViewContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- 검색 입력창 및 버튼 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:background="#AAFFFFFF">
+
+        <!-- EditText: 검색 입력 -->
+        <EditText
+            android:id="@+id/editTextKeyword"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="검색어 입력"
+            android:padding="10dp"
+            android:inputType="text"
+            android:textColor="#000000"
+            android:textColorHint="#888888"
+            android:minHeight="48dp"
+            android:backgroundTint="#DDDDDD" />
+
+        <!-- Button: 검색 버튼 -->
+        <Button
+            android:id="@+id/buttonSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="검색"
+            android:minWidth="48dp"
+            android:minHeight="48dp" />
+    </LinearLayout>
+
+    <!-- 버튼: 마커 데이터 표시 -->
+    <Button
+        android:id="@+id/buttonShowMarkers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:padding="10dp"
+        android:text="POI 정보"
+        android:textColor="#FFFFFF" />
+
+    <!-- 버튼: TMap 앱 열기 -->
+    <Button
+        android:id="@+id/buttonOpenTMapApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="16dp"
+        android:padding="10dp"
+        android:text="TMap 경로 안내"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
