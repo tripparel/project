@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -8,73 +9,71 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
-    <!-- 검색 입력창 및 버튼 -->
+    <!-- 출발지 및 목적지 입력 필드 -->
     <LinearLayout
+        android:id="@+id/layoutRouteInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:padding="10dp"
-        android:background="#AAFFFFFF">
+        android:background="#AAFFFFFF"
+        android:visibility="visible">
 
-        <!-- EditText: 검색 입력 -->
+        <!-- 출발지 입력 -->
         <EditText
-            android:id="@+id/editTextKeyword"
-            android:layout_width="0dp"
+            android:id="@+id/editTextStartPoint"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:hint="검색어 입력"
+            android:hint="출발지 입력"
             android:padding="10dp"
-            android:inputType="text"
+            android:backgroundTint="#DDDDDD"
+            android:textColor="#000000"
+            android:textColorHint="#888888" />
+
+        <!-- 목적지 입력 -->
+        <EditText
+            android:id="@+id/editTextEndPoint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="목적지 입력"
+            android:padding="10dp"
+            android:backgroundTint="#DDDDDD"
             android:textColor="#000000"
             android:textColorHint="#888888"
-            android:minHeight="48dp"
-            android:backgroundTint="#DDDDDD" />
+            android:layout_marginTop="10dp" />
 
-        <!-- Button: 검색 버튼 -->
+        <!-- POI 검색 버튼 -->
         <Button
-            android:id="@+id/buttonSearch"
-            android:layout_width="wrap_content"
+            android:id="@+id/buttonSearchPOI"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
-            android:text="검색"
-            android:minWidth="48dp"
-            android:minHeight="48dp" />
+            android:text="POI 검색"
+            android:textColor="#FFFFFF"
+            android:background="#6200EE"
+            android:padding="10dp" />
     </LinearLayout>
 
-    <!-- 버튼: 마커 데이터 표시 -->
-    <Button
-        android:id="@+id/buttonShowMarkers"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_margin="16dp"
-        android:padding="10dp"
-        android:text="POI 정보"
-        android:textColor="#FFFFFF" />
+    <!-- POI 리스트 -->
+    <ListView
+        android:id="@+id/listViewPOI"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/layoutRouteInput"
+        android:visibility="gone"
+        android:background="#FFFFFF"
+        android:padding="5dp" />
 
-    <!-- 버튼: TMap 앱 열기 -->
+    <!-- 경로 찾기 버튼 -->
     <Button
-        android:id="@+id/buttonOpenTMapApp"
-        android:layout_width="wrap_content"
+        android:id="@+id/buttonFindRoute"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_margin="16dp"
+        android:layout_below="@id/listViewPOI"
+        android:layout_marginTop="10dp"
+        android:text="경로 찾기"
+        android:textColor="#FFFFFF"
+        android:background="#6200EE"
         android:padding="10dp"
-        android:text="TMap 경로 안내"
-        android:textColor="#FFFFFF" />
-
+        android:enabled="false" />
 </RelativeLayout>
-
-
-
-
-
-
-
-
-
-
-
