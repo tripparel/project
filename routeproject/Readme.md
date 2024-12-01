@@ -30,17 +30,17 @@ project/
 ## 실행 방법
 
 ### 1. Python 환경 설정
-1. Python 3.7 이상이 필요합니다.
-2. 필요한 라이브러리를 설치합니다:
+1. Python 3.7 이상
+2. 필요한 라이브러리를 설치
    ```bash
    pip install -r requirements.txt
    ```
 ### 2. 서버실행
-1. Flask 서버를 실행합니다:
+1. Flask 서버를 실행
 
  ```bash
     python server.py
  ```
 
-2. 서버는 기본적으로 http://127.0.0.1:5000에서 실행됩니다.
+2. 서버는 기본적으로 http://127.0.0.1:5000에서 실행
 ```
