@@ -1,3 +1,4 @@
+```bash
 project/ 
 │ 
 ├── server.py # Flask 서버 메인 파일
@@ -6,3 +7,4 @@ project/
 └── utils/ # 공용 모듈 폴더 
  ├── filtering.py # 매장 필터링 로직 
  └── routing.py # 경로 알고리즘 (필요 시)
+```
