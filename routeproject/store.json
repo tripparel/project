@@ -1,0 +1,659 @@
+[
+  {
+    "Store Name": "빈티지제트",
+    "Address": "서울특별시 성동구 성수동2가 301-46 지하1층",
+    "Road Address": "서울특별시 성동구 성수일로 42 지하1층",
+    "Longitude": 1270497938,
+    "Latitude": 375442120,
+    "Link": "https://www.instagram.com/vintagezet",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "비얼디드키드",
+    "Address": "서울특별시 성동구 성수동1가 16-4 606호",
+    "Road Address": "서울특별시 성동구 성수일로 55 606호",
+    "Longitude": 1270495686,
+    "Latitude": 375454865,
+    "Link": "http://www.beardedkid.kr/",
+    "Category": "남성, 캐주얼"
+  },
+  {
+    "Store Name": "OHOTORO",
+    "Address": "서울특별시 성동구 성수동1가 22-12 1층",
+    "Road Address": "서울특별시 성동구 성수일로 39-41 1층",
+    "Longitude": 1270485956,
+    "Latitude": 375441912,
+    "Link": "https://m.ohotoro.com/ohotoro/pages/about-us.html",
+    "Category": "여성, 미니멀, 캐주얼"
+  },
+  {
+    "Store Name": "스튜디오맵씨",
+    "Address": "서울특별시 성동구 성수동1가 22-5 경동빌딩 101호 스튜디오맵씨",
+    "Road Address": "서울특별시 성동구 성수일로 39 경동빌딩 101호 스튜디오맵씨",
+    "Longitude": 1270493472,
+    "Latitude": 375441360,
+    "Link": "http://instagram.com/studio_mmap.c",
+    "Category": "여성, 미니멀"
+  },
+  {
+    "Store Name": "코어브릿지",
+    "Address": "서울특별시 성동구 성수동2가 284-49",
+    "Road Address": "서울특별시 성동구 성수일로 84",
+    "Longitude": 1270512823,
+    "Latitude": 375479870,
+    "Link": "http://www.core-bridge.co.kr",
+    "Category": "여성, 스포츠"
+  },
+  {
+    "Store Name": "밀리언아카이브",
+    "Address": "서울특별시 성동구 성수동2가 289-293 밀리언아카이브",
+    "Road Address": "서울특별시 성동구 아차산로5길 24-18 밀리언아카이브",
+    "Longitude": 1270533301,
+    "Latitude": 375473017,
+    "Link": "http://millionarchive.com",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "빈티지애플스 성수",
+    "Address": "서울특별시 성동구 성수동2가 302-36 지하1층",
+    "Road Address": "서울특별시 성동구 연무장길 17 지하1층",
+    "Longitude": 1270514670,
+    "Latitude": 375437393,
+    "Link": "https://blog.naver.com/park_ricky",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "파라마운트피커스",
+    "Address": "서울특별시 성동구 성수동2가 273-13 에스팩토리 B동 117, 118호",
+    "Road Address": "서울특별시 성동구 연무장15길 11 에스팩토리 B동 117, 118호",
+    "Longitude": 1270597624,
+    "Latitude": 375426939,
+    "Link": "",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "마켓인유",
+    "Address": "서울특별시 성동구 성수동2가 276-4 1층",
+    "Road Address": "서울특별시 성동구 아차산로 166 1층",
+    "Longitude": 1270618848,
+    "Latitude": 375425726,
+    "Link": "http://www.marketinu.com",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "해칭룸 성수",
+    "Address": "서울특별시 성동구 성수동2가 314-37 1층",
+    "Road Address": "서울특별시 성동구 성수일로6길 33 1층",
+    "Longitude": 1270538076,
+    "Latitude": 375447806,
+    "Link": "https://linktr.ee/hatchingroom",
+    "Category": "남성, 스트릿, 캐주얼, 고프코어"
+  },
+  {
+    "Store Name": "PRTPRT SHOP",
+    "Address": "서울특별시 성동구 성수동2가 316-5 2층",
+    "Road Address": "서울특별시 성동구 연무장길 29-17 2층",
+    "Longitude": 1270526921,
+    "Latitude": 375436156,
+    "Link": "https://www.instagram.com/prtprtshop",
+    "Category": "남성, 스트릿, 캐주얼, 고프코어, 아메카지, 미니멀, 편집샵"
+  },
+  {
+    "Store Name": "4xr 성수점",
+    "Address": "서울특별시 성동구 성수동2가 315-7 성문빌딩 1층",
+    "Road Address": "서울특별시 성동구 성수이로 87",
+    "Longitude": 1270562263,
+    "Latitude": 375427177,
+    "Link": "http://www.4xr.co.kr/",
+    "Category": "남성, 편집샵"
+  },
+  {
+    "Store Name": "셔터",
+    "Address": "서울특별시 성동구 성수동2가 275-3 금별빌딩 2층 202호",
+    "Road Address": "서울특별시 성동구 동일로 91 금별빌딩 2층 202호",
+    "Longitude": 1270630000,
+    "Latitude": 375409951,
+    "Link": "http://www.shirter.co.kr",
+    "Category": "남성, 미니멀, 캐주얼"
+  },
+  {
+    "Store Name": "니트서울",
+    "Address": "서울특별시 성동구 성수동2가 264-6 1층",
+    "Road Address": "서울특별시 성동구 성덕정19길 23 1층",
+    "Longitude": 1270578968,
+    "Latitude": 375377605,
+    "Link": "https://blog.naver.com/neat_seoul",
+    "Category": "남성, 미니멀, 캐주얼"
+  },
+  {
+    "Store Name": "스무드무드",
+    "Address": "서울특별시 성동구 성수동2가 289-212 2층",
+    "Road Address": "서울특별시 성동구 성수일로12길 32 2층",
+    "Longitude": 1270543255,
+    "Latitude": 375476790,
+    "Link": "https://www.instagram.com/smoothmood.kr",
+    "Category": "여성, 캐주얼, 미니멀"
+  },
+  {
+    "Store Name": "The Barnnet Corner Shop",
+    "Address": "서울특별시 성동구 성수동2가 316-20 1층",
+    "Road Address": "서울특별시 성동구 연무장길 29-1 1층",
+    "Longitude": 1270527078,
+    "Latitude": 375433469,
+    "Link": "https://www.instagram.com/thebarnnet/",
+    "Category": "여성, 클래식, 캐주얼"
+  },
+  {
+    "Store Name": "레이브 스튜디오 성수점",
+    "Address": "서울특별시 성동구 성수동2가 301-88 1층 RIAVE",
+    "Road Address": "서울특별시 성동구 연무장길 13 1층 RIAVE",
+    "Longitude": 1270511727,
+    "Latitude": 375438238,
+    "Link": "https://www.instagram.com/raive_studio/",
+    "Category": "여성, 클래식, 캐주얼"
+  },
+  {
+    "Store Name": "그린버터 성수 플래그십스토어",
+    "Address": "서울특별시 성동구 성수동2가 309-144 GREENBUTTER",
+    "Road Address": "서울특별시 성동구 성수이로7길 24 GREENBUTTER",
+    "Longitude": 1270542988,
+    "Latitude": 375413246,
+    "Link": "https://greenbutter.co.kr/",
+    "Category": "여성, 클래식, 캐주얼"
+  },
+  {
+    "Store Name": "퓨어다 성수",
+    "Address": "서울특별시 성동구 성수동2가 302-36 1층",
+    "Road Address": "서울특별시 성동구 연무장길 17 1층",
+    "Longitude": 1270514670,
+    "Latitude": 375437393,
+    "Link": "https://pureda.co.kr/",
+    "Category": "여성, 클래식, 미니멀"
+  },
+  {
+    "Store Name": "무신사 스토어 성수 대림창고",
+    "Address": "서울특별시 성동구 성수2가1동 322-13",
+    "Road Address": "서울특별시 성동구 성수이로 74",
+    "Longitude": 1270564109,
+    "Latitude": 375415950,
+    "Link": "https://www.musinsa.com/cms/micro/view/13121",
+    "Category": "남성, 여성, 편집샵"
+  },
+  {
+    "Store Name": "무신사 스퀘어 성수 4",
+    "Address": "서울특별시 성동구 성수동2가 273-35 1층",
+    "Road Address": "서울특별시 성동구 성수이로20길 12 1층",
+    "Longitude": 1270580201,
+    "Latitude": 375432483,
+    "Link": "https://squareseoul.kr/",
+    "Category": "남성, 여성, 편집샵"
+  },
+  {
+    "Store Name": "EQL 성수점",
+    "Address": "서울특별시 성동구 성수동2가 273-13 EQL",
+    "Road Address": "서울특별시 성동구 연무장15길 11 EQL",
+    "Longitude": 1270589179,
+    "Latitude": 375428620,
+    "Link": "https://wch.eqlstore.com/main",
+    "Category": "남성, 여성, 편집샵"
+  },
+  {
+    "Store Name": "무신사 스탠다드 성수점",
+    "Address": "서울특별시 성동구 성수동2가 271-22 1F-2F",
+    "Road Address": "서울특별시 성동구 연무장길 83 1F-2F",
+    "Longitude": 1270586422,
+    "Latitude": 375416373,
+    "Link": "",
+    "Category": "남성, 여성, 캐주얼, 미니멀, SPA"
+  },
+  {
+    "Store Name": "디올성수",
+    "Address": "서울특별시 성동구 성수동2가 302-11",
+    "Road Address": "서울특별시 성동구 연무장5길 7",
+    "Longitude": 1270522633,
+    "Latitude": 375438830,
+    "Link": "",
+    "Category": "남성, 여성, 명품"
+  },
+  {
+    "Store Name": "무신사",
+    "Address": "서울특별시 성동구 성수동2가 277-47 무신사 캠퍼스 N1",
+    "Road Address": "서울특별시 성동구 아차산로13길 11 무신사 캠퍼스 N1",
+    "Longitude": 1270606202,
+    "Latitude": 375445062,
+    "Link": "http://musinsa.com",
+    "Category": "남성, 여성, SPA"
+  },
+  {
+    "Store Name": "로우로우 월드와이드서울",
+    "Address": "서울특별시 성동구 성수동2가 309-144",
+    "Road Address": "서울특별시 성동구 성수이로7길 24",
+    "Longitude": 1270543940,
+    "Latitude": 375414607,
+    "Link": "https://www.instagram.com/worldwideworld.kr",
+    "Category": "남성, 여성, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "휴먼 메이드 오프라인 스토어 서울",
+    "Address": "서울특별시 성동구 성수동2가 333-94 1층",
+    "Road Address": "서울특별시 성동구 성수이로7길 39 1층",
+    "Longitude": 1270532602,
+    "Latitude": 375425053,
+    "Link": "https://humanmade.seoul.kr/",
+    "Category": "남성, 여성, 스트릿, 캐주얼"
+  },
+  {
+    "Store Name": "조하리스토어",
+    "Address": "서울특별시 성동구 성수동2가 280-23 2층",
+    "Road Address": "서울특별시 성동구 아차산로13길 42 2층",
+    "Longitude": 1270622957,
+    "Latitude": 375468482,
+    "Link": "https://joharistore.imweb.me/",
+    "Category": "남성, 여성, 스트릿, 고프코어, 편집샵"
+  },
+  {
+    "Store Name": "VELVETTRUNK",
+    "Address": "서울특별시 성동구 성수동2가 316-15",
+    "Road Address": "서울특별시 성동구 연무장길 25 1F VELVETTRUNK",
+    "Longitude": 1270523717,
+    "Latitude": 375434336,
+    "Link": "http://www.instagram.com/velvettrunk_official",
+    "Category": "남성, 여성, 스트릿, 편집샵"
+  },
+  {
+    "Store Name": "032c Gallery Seoul",
+    "Address": "서울특별시 성동구 성수동2가 269-25 101호",
+    "Road Address": "서울특별시 성동구 성수이로10길 14 101호",
+    "Longitude": 1270568366,
+    "Latitude": 375401716,
+    "Link": "https://032c.kr/",
+    "Category": "남성, 여성, 스트릿"
+  },
+  {
+    "Store Name": "팹스타일",
+    "Address": "서울특별시 성동구 성수동2가 277-42 4층 팹스타일",
+    "Road Address": "서울특별시 성동구 성수이로22길 43 4층 팹스타일",
+    "Longitude": 1270618881,
+    "Latitude": 375437474,
+    "Link": "http://www.fabstyle.co.kr/",
+    "Category": "남성, 여성, 명품, 편집샵"
+  },
+  {
+    "Store Name": "뉴문&amp;아일랜드빈티지",
+    "Address": "서울특별시 성동구 성수동2가 331-8 B1층",
+    "Road Address": "서울특별시 성동구 뚝섬로 409 B1층",
+    "Longitude": 1270561606,
+    "Latitude": 375386829,
+    "Link": "https://www.instagram.com/vtg_island/profilecard/?igsh=a2MzZHI2bTJzY202",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "구제웨어",
+    "Address": "서울특별시 광진구 자양동 553-43 한양빌딩 209호",
+    "Road Address": "서울특별시 광진구 뚝섬로 539 한양빌딩",
+    "Longitude": 1270700439,
+    "Latitude": 375350175,
+    "Link": "http://www.gujewear.com/",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "앤디앤뎁",
+    "Address": "서울특별시 성동구 성수동1가 72-91",
+    "Road Address": "서울특별시 성동구 뚝섬로 345 2층 / 4층",
+    "Longitude": 1270491708,
+    "Latitude": 375408361,
+    "Link": "http://www.andyndebb.com/",
+    "Category": "여성, 미니멀, 클래식"
+  },
+  {
+    "Store Name": "무신사 엠프티 성수",
+    "Address": "서울특별시 성동구 성수동2가 315-108 1F~4F",
+    "Road Address": "서울특별시 성동구 성수이로 97 1F~4F",
+    "Longitude": 1270566125,
+    "Latitude": 375436565,
+    "Link": "http://empty.seoul.kr",
+    "Category": "남성, 여성, 스트릿, 캐주얼, 편집샵"
+  },
+  {
+    "Store Name": "아더 성수 스페이스",
+    "Address": "서울특별시 성동구 성수동2가 317-9",
+    "Road Address": "서울특별시 성동구 성수이로 82",
+    "Longitude": 1270564523,
+    "Latitude": 375422651,
+    "Link": "http://adererror.com/",
+    "Category": "남성, 여성, 스트릿,"
+  },
+  {
+    "Store Name": "스왈로우라운지 성수",
+    "Address": "서울특별시 성동구 성수동2가 289-321 1층 스왈로우라운지 성수",
+    "Road Address": "서울특별시 성동구 성수이로 117 1층 스왈로우라운지 성수",
+    "Longitude": 1270572616,
+    "Latitude": 375454751,
+    "Link": "https://swallowlounge.co.kr/",
+    "Category": "남성, 아메카지, 캐주얼"
+  },
+  {
+    "Store Name": "도쿄유즈드 성수",
+    "Address": "서울특별시 성동구 성수동1가 308-2",
+    "Road Address": "서울특별시 성동구 성덕정길 68",
+    "Longitude": 1270510703,
+    "Latitude": 375378989,
+    "Link": "https://smartstore.naver.com/toky_oused",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "포레스트 빈티지",
+    "Address": "서울특별시 성동구 성수동1가 668-61 지하 1층",
+    "Road Address": "서울특별시 성동구 서울숲4길 22-31 지하 1층",
+    "Longitude": 1270431174,
+    "Latitude": 375465463,
+    "Link": "https://blog.naver.com/forest_vingtage",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "브론즈윅2호점",
+    "Address": "서울특별시 성동구 성수동1가 14-80 1층 & 2층 브론즈윅",
+    "Road Address": "서울특별시 성동구 연무장길 2 1층 & 2층 브론즈윅",
+    "Longitude": 1270498657,
+    "Latitude": 375440161,
+    "Link": "http://Bronzwick",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "폭스빈티지",
+    "Address": "서울특별시 성동구 성수동1가 668-100 B1",
+    "Road Address": "서울특별시 성동구 서울숲6길 10 B1",
+    "Longitude": 1270426787,
+    "Latitude": 375476152,
+    "Link": "http://m.vintagefox.kr/",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "셀릭빈티지",
+    "Address": "서울특별시 성동구 성수동1가 668-24 지하1층",
+    "Road Address": "서울특별시 성동구 서울숲4길 23 지하1층",
+    "Longitude": 1270435156,
+    "Latitude": 375472154,
+    "Link": "https://www.instagram.com/cellic.vintage/",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "헨리코튼 서울숲점",
+    "Address": "서울특별시 성동구 성수동1가 668-61 1층",
+    "Road Address": "서울특별시 성동구 서울숲4길 22-31 1층",
+    "Longitude": 1270430581,
+    "Latitude": 375465279,
+    "Link": "https://www.instagram.com/henrycottons_seoulforest",
+    "Category": "남성, 캐주얼, 아매카지, 고프코어"
+  },
+  {
+    "Store Name": "헨리코튼 서울숲점",
+    "Address": "서울특별시 성동구 성수동1가 668-17 B1층 인템포무드",
+    "Road Address": "서울특별시 성동구 서울숲6길 16-1 B1층 인템포무드",
+    "Longitude": 1270433738,
+    "Latitude": 375474018,
+    "Link": "https://www.instagram.com/intempomood_store",
+    "Category": "남성"
+  },
+  {
+    "Store Name": "워즈코퍼레이션",
+    "Address": "서울특별시 성동구 성수동1가 13-209 12층 1201호~1214호",
+    "Road Address": "서울특별시 성동구 상원12길 34 12층 1201호~1214호",
+    "Longitude": 1270504723,
+    "Latitude": 375495385,
+    "Link": "http://phyps-department.co.kr/",
+    "Category": "남성, 여성, 캐주얼"
+  },
+  {
+    "Store Name": "파사드패턴",
+    "Address": "서울특별시 성동구 성수동1가 31-17 1층",
+    "Road Address": "서울특별시 성동구 뚝섬로5길 15 1층",
+    "Longitude": 1270507345,
+    "Latitude": 375413100,
+    "Link": "https://www.instagram.com/facade_pattern/",
+    "Category": "여성, 미니멀, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "오뗄 루에브르",
+    "Address": "서울특별시 성동구 성수동1가 668-97 1층 오뗄 루에브르",
+    "Road Address": "서울특별시 성동구 서울숲2길 29 1층 오뗄 루에브르",
+    "Longitude": 1270420141,
+    "Latitude": 375467879,
+    "Link": "http://www.maisonloeuvre.com",
+    "Category": "여성, 클래식, 미니멀"
+  },
+  {
+    "Store Name": "룩캐스트 성수점",
+    "Address": "서울특별시 성동구 성수동1가 14-80",
+    "Road Address": "서울특별시 성동구 연무장길 2",
+    "Longitude": 1270498657,
+    "Latitude": 375440161,
+    "Link": "http://www.lookast.com",
+    "Category": "여성, 클래식, 미니멀, 캐주얼"
+  },
+  {
+    "Store Name": "썸웨어버터쇼룸",
+    "Address": "서울특별시 성동구 성수동1가 685-345 1층",
+    "Road Address": "서울특별시 성동구 서울숲2길 12 1층",
+    "Longitude": 1270399483,
+    "Latitude": 375472294,
+    "Link": "https://www.instagram.com/somewherebutter/",
+    "Category": "여성, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "리이 성수점",
+    "Address": "서울특별시 성동구 성수동1가 16-19 1층",
+    "Road Address": "서울특별시 성동구 연무장길 14 1층",
+    "Longitude": 1270510985,
+    "Latitude": 375436520,
+    "Link": "https://rerhee.com",
+    "Category": "여성, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "아비에무아 서울숲 스토어",
+    "Address": "서울특별시 성동구 성수동1가 685-452 1F, 2F",
+    "Road Address": "서울특별시 성동구 서울숲2길 18-1 1F, 2F",
+    "Longitude": 1270406706,
+    "Latitude": 375470341,
+    "Link": "https://www.instagram.com/aviemuah_seongsu",
+    "Category": "남성, 여성, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "88 Boutique",
+    "Address": "서울특별시 성동구 성수동1가 685-424 지층",
+    "Road Address": "서울특별시 성동구 서울숲2길 19 지층",
+    "Longitude": 1270408925,
+    "Latitude": 375471467,
+    "Link": "http://www.instagram.com/88boutique88",
+    "Category": "여성, 빈티지, 명품"
+  },
+  {
+    "Store Name": "레스트앤레크레이션 성수",
+    "Address": "서울특별시 성동구 성수동1가 656-1094",
+    "Road Address": "서울특별시 성동구 왕십리로6길 35",
+    "Longitude": 1270485293,
+    "Latitude": 375451216,
+    "Link": "https://www.instagram.com/rr_restandrecreation/",
+    "Category": "남성, 여성, 캐주얼, 고프코어, 스트릿"
+  },
+  {
+    "Store Name": "ZIOSONGZIO 지오송지오 인터내셔널",
+    "Address": "서울특별시 성동구 성수동1가 671-6 서울숲IT캐슬 16층 1608호",
+    "Road Address": "서울특별시 성동구 광나루로 130 서울숲IT캐슬 16층 1608호",
+    "Longitude": 1270447180,
+    "Latitude": 375509555,
+    "Link": "https://ziosongzio.shop/",
+    "Category": "남성, 여성, 캐주얼, 클래식"
+  },
+  {
+    "Store Name": "아도니스",
+    "Address": "서울특별시 성동구 성수동1가 656-1748 2층 ADONIS",
+    "Road Address": "서울특별시 성동구 상원1길 22 2층 ADONIS",
+    "Longitude": 1270485100,
+    "Latitude": 375456935,
+    "Link": "https://smartstore.naver.com/luxadonis",
+    "Category": "남성, 여성, 빈티지, 명품"
+  },
+  {
+    "Store Name": "에디브로하우스",
+    "Address": "서울특별시 성동구 성수동2가 314-6 지하층 102호",
+    "Road Address": "서울특별시 성동구 아차산로 96 지하층 102호",
+    "Longitude": 1270549891,
+    "Latitude": 375445179,
+    "Link": "https://www.instagram.com/eddybro_house",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "데일리서울",
+    "Address": "서울특별시 광진구 자양동 17-14 커먼그라운드 MH동 2층",
+    "Road Address": "서울특별시 광진구 아차산로 200 커먼그라운드 MH동 2층",
+    "Longitude": 1270655351,
+    "Latitude": 375413033,
+    "Link": "https://www.instagram.com/daily_seoul_",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "찰리박스",
+    "Address": "서울특별시 광진구 자양동 17-14 MH동 2층",
+    "Road Address": "서울특별시 광진구 아차산로 200 MH동 2층",
+    "Longitude": 1270653956,
+    "Latitude": 375413203,
+    "Link": "",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "이구성수",
+    "Address": "서울특별시 성동구 성수동2가 302-4",
+    "Road Address": "서울특별시 성동구 아차산로 78",
+    "Longitude": 1270525117,
+    "Latitude": 375451737,
+    "Link": "https://www.instagram.com/29cmseongsu",
+    "Category": "남성, 여성, 편집샵"
+  },
+  {
+    "Store Name": "디스이즈네버댓 성수",
+    "Address": "서울특별시 성동구 성수동2가 277-121 3층",
+    "Road Address": "서울특별시 성동구 아차산로 159 3층",
+    "Longitude": 1270617054,
+    "Latitude": 375432593,
+    "Link": "https://thisisneverthat.com",
+    "Category": "남성, 여성, 스트릿, 캐주얼"
+  },
+  {
+    "Store Name": "블랙브라운",
+    "Address": "서울특별시 성동구 성수동2가 315-71 614호",
+    "Road Address": "서울특별시 성동구 아차산로 104 614호",
+    "Longitude": 1270554581,
+    "Latitude": 375444425,
+    "Link": "http://blackbrown.co.kr",
+    "Category": "남성, 여성, 캐주얼"
+  },
+  {
+    "Store Name": "서울중고명품 어포드",
+    "Address": "서울특별시 광진구 자양동 17-14",
+    "Road Address": "서울특별시 광진구 아차산로 200",
+    "Longitude": 1270653742,
+    "Latitude": 375413501,
+    "Link": "https://smartstore.naver.com/aford",
+    "Category": "남성, 여성, 빈티지, 명품"
+  },
+  {
+    "Store Name": "브론즈윅1호점",
+    "Address": "서울특별시 성동구 성수동2가 271-24 305호",
+    "Road Address": "서울특별시 성동구 연무장길 81 305호",
+    "Longitude": 1270582575,
+    "Latitude": 375417012,
+    "Link": "",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "발발빈티지",
+    "Address": "서울특별시 성동구 성수동2가 310-55 지하1층",
+    "Road Address": "서울특별시 성동구 연무장길 30 지하1층",
+    "Longitude": 1270526763,
+    "Latitude": 375431730,
+    "Link": "",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "레씨토",
+    "Address": "서울특별시 성동구 성수동2가 316-44 3층",
+    "Road Address": "서울특별시 성동구 연무장길 37 3층",
+    "Longitude": 1270536518,
+    "Latitude": 375430767,
+    "Link": "",
+    "Category": "남성, 스트릿"
+  },
+  {
+    "Store Name": "키스 서울",
+    "Address": "서울특별시 성동구 성수동2가 322-5 1층",
+    "Road Address": "서울특별시 성동구 연무장길 70 1층",
+    "Longitude": 1270569745,
+    "Latitude": 375418749,
+    "Link": "https://kr.kith.com",
+    "Category": "남성, 여성, 스트릿, 캐주얼"
+  },
+  {
+    "Store Name": "제이콥앤잭",
+    "Address": "서울특별시 성동구 성수동1가 685-383 지하1층",
+    "Road Address": "서울특별시 성동구 서울숲길 50 지하1층",
+    "Longitude": 1270429476,
+    "Latitude": 375479065,
+    "Link": "http://www.jnjshop.kr",
+    "Category": "남성, 여성, 빈티지"
+  },
+  {
+    "Store Name": "슬로우스테디클럽 디스커버리 서울숲점",
+    "Address": "서울특별시 성동구 성수동1가 685-400",
+    "Road Address": "서울특별시 성동구 서울숲길 44 1층",
+    "Longitude": 1270423436,
+    "Latitude": 375479162,
+    "Link": "http://www.slowsteadyclub.com",
+    "Category": "남성, 여성, 편집샵, 스트릿, 캐주얼"
+  },
+  {
+    "Store Name": "블루수비르",
+    "Address": "서울특별시 성동구 성수동1가 668-51 지하1층",
+    "Road Address": "서울특별시 성동구 서울숲4길 24 지하1층",
+    "Longitude": 1270434803,
+    "Latitude": 375470481,
+    "Link": "https://www.instagram.com/blue_subir",
+    "Category": "남성, 여성, 빈티지, 편집샵"
+  },
+  {
+    "Store Name": "하이카라",
+    "Address": "서울특별시 성동구 성수동1가 668-68 B01",
+    "Road Address": "서울특별시 성동구 서울숲4길 18-7 B01",
+    "Longitude": 1270428552,
+    "Latitude": 375470138,
+    "Link": "http://www.highkalla.com",
+    "Category": "남성, 여성, 빈티지, 명품"
+  },
+  {
+    "Store Name": "풋볼스탠다드 성수점",
+    "Address": "서울특별시 성동구 성수동1가 668-32 1F",
+    "Road Address": "서울특별시 성동구 서울숲4길 28-3 1F",
+    "Longitude": 1270440110,
+    "Latitude": 375468842,
+    "Link": "https://www.instagram.com/football_standard/",
+    "Category": "남성, 여성, 스트릿"
+  },
+  {
+    "Store Name": "플라스틱프로덕트 성수",
+    "Address": "서울특별시 성동구 성수동2가 271-2 4층",
+    "Road Address": "서울특별시 성동구 연무장길 89 4층",
+    "Longitude": 1270594396,
+    "Latitude": 375413998,
+    "Link": "https://www.instagram.com/plastic_product/",
+    "Category": "남성, 여성, 스트릿, 캐주얼"
+  },
+  {
+    "Store Name": "누마레",
+    "Address": "서울특별시 성동구 성수동2가 322-19 1층 누마레",
+    "Road Address": "서울특별시 성동구 성수이로14길 3 1층 누마레",
+    "Longitude": 1270562388,
+    "Latitude": 375410929,
+    "Link": "http://www.nouvmaree.com/",
+    "Category": "남성, 여성, 미니멀, 스트릿"
+  }
+]
