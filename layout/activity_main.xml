@@ -1,0 +1,94 @@
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Main Layout -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Toolbar -->
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar" />
+
+        <!-- TMap Container -->
+        <FrameLayout
+            android:id="@+id/tmap_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <!-- Route Input Section -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <EditText
+                android:id="@+id/waypoint_input"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:hint="경유지 (매장 이름)"
+                android:inputType="text" />
+
+            <EditText
+                android:id="@+id/destination_input"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:hint="목적지 (매장 이름)"
+                android:inputType="text" />
+
+            <Button
+                android:id="@+id/route_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="경로 안내" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Sidebar Layout -->
+    <LinearLayout
+        android:id="@+id/sidebar"
+        android:orientation="vertical"
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:background="#FFF"
+        android:layout_gravity="end"
+        android:padding="16dp">
+
+        <!-- Filtered Store List -->
+        <TextView
+            android:id="@+id/sidebar_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="필터링된 매장 리스트"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"
+            android:gravity="center" />
+
+        <ListView
+            android:id="@+id/store_list"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="1dp"
+            android:scrollbars="none" />
+    </LinearLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>
+
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- 빈티지 -->
+    <CheckBox
+        android:id="@+id/cb_vintage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="빈티지" />
+
+    <!-- 미니멀 -->
+    <CheckBox
+        android:id="@+id/cb_minimal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="미니멀" />
+
+    <!-- 캐주얼 -->
+    <CheckBox
+        android:id="@+id/cb_casual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="캐주얼" />
+
+    <!-- 스포츠 -->
+    <CheckBox
+        android:id="@+id/cb_sports"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="스포츠" />
+
+    <!-- 고프코어 -->
+    <CheckBox
+        android:id="@+id/cb_gorpcore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="고프코어" />
+
+    <!-- 스트릿 -->
+    <CheckBox
+        android:id="@+id/cb_street"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="스트릿" />
+
+    <!-- 아메카지 -->
+    <CheckBox
+        android:id="@+id/cb_amekaji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="아메카지" />
+
+    <!-- 편집샵 -->
+    <CheckBox
+        android:id="@+id/cb_editshop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="편집샵" />
+
+    <!-- 클래식 -->
+    <CheckBox
+        android:id="@+id/cb_classic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="클래식" />
+
+    <!-- SPA -->
+    <CheckBox
+        android:id="@+id/cb_spa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SPA" />
+
+    <!-- 명품 -->
+    <CheckBox
+        android:id="@+id/cb_luxury"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="명품" />
+
+    <!-- 다음 버튼 -->
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="다음" />
+</LinearLayout>
